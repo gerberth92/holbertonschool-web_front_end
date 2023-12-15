@@ -451,6 +451,7 @@ a:active {
 
 .footer {
   padding: var(--footer-padding);
+  text-align: right;
 }
 
 .section-title {
@@ -512,7 +513,7 @@ h1, h2, h3, h4, h5, h6 {
 ul .row {
   margin: 0;
   padding: 0;
-  list-style-type: none;
+  list-style: none;
 }
 
 .col-1-3 {
