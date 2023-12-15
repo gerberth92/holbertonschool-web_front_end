@@ -36,20 +36,20 @@ body {
     line-height: var(--line-height-base);
 }
 
-a .social-link {
-    color: #161616;
+a:link {
+    color: var(--text-color)
     text-decoration: none;
 }
 
-a .social-link:visited {
+a:visited {
     font-style: italic;
 }
 
-a .social-link:hover {
+a:hover {
     text-decoration: underline;
 }
 
-a .social-link:active {
+a:active {
     background-color: var(--color-light-grey);
 }
 
