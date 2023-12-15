@@ -451,7 +451,6 @@ a:active {
 
 .footer {
   padding: var(--footer-padding);
-  text-align: right;
 }
 
 .section-title {
